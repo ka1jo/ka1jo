@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I have huge interest in HTML/CSS/JavaScript.<br>
+Hello! I have huge interest in HTML/CSS/JavaScript/Tailwind<br>
 
 
 ## 🌐 Socials:
