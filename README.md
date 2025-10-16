@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hello! I have huge interest in HTML/CSS/JavaScript/Tailwind<br>
+𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀:
+*Python(basics)
+*HTML, Bootstrap ,CSS, JavaScript, Tailwind css
+*Project Management, Linux, Odoo, Back Office Tools
+*SQL(beginner)
 
 
 ## 🌐 Socials:
